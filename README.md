@@ -2,7 +2,7 @@
 Camera Based On NanoPi
 
 Content:
-01.usb camera test
+01.usb camera test.
 02.video for linux study.
 03.sdl study.
 04.display usb camera video by sdl.
